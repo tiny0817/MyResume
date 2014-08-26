@@ -1,0 +1,70 @@
+body{
+	font:Arial, Helvetica, sans-serif;
+	/*text-align:center;*/
+	}
+#container{
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+	}
+
+table#education{
+	/*height:100px;*/
+	width:100%
+	}
+
+hr{
+	clear:both;
+	color:#969;	
+	}
+span{
+	font-weight:bold;
+	}
+
+table#basic{
+	/*border-style:solid;*/
+	float:left;
+	width:85%;
+	height:150px;
+	}
+	
+td{
+	/*width:30%;*/
+	/*height:25%;*/
+	text-align:left;
+	}
+dt{
+	color:#333;
+	font-weight:bold;
+	/*background-color:#999;*/
+	}
+img{
+	float:right;
+	width:100px;
+	height::200px;
+	}
+.sum{
+	width:680px;
+	}
+.tag{
+	/*clear:both;*/
+	background-color:#0CF;
+	float:left;
+	font-size:22px;
+	font-weight:bold;
+	color:#FFF;
+	width:220px;
+	height:28px;
+	text-align:center;
+	}
+	
+.des{
+	float:right;
+	color:#F93;
+	width:400px;
+	height:28px;
+	font-size:28px;
+	text-align:right;
+	}
+
+
